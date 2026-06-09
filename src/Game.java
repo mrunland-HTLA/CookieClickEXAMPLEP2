@@ -8,6 +8,7 @@ public class Game {
     protected int upgrade1Cost;
     protected int upgrade2Cost;
 
+
     public Game() {
         this.cookieCounter = 0;
         this.cookiesPerClick = 1;
